@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PersonArchetype>
+    <id>101</id>
+    <header>
+        <name>Living Person Archetype</name>
+        <author>TICE Helthy PPS2</author>
+    </header>
+    <person>
+        <internalId>0</internalId>
+        <classCode>PERSON</classCode>
+        <determinerCode></determinerCode>
+        <code>
+            <code></code>
+            <codeSystem></codeSystem>
+            <codeDisplayName></codeDisplayName>
+        </code>
+        <quantity>
+            <value>0.0</value>
+        </quantity>
+        <description></description>
+        <statusCode></statusCode>
+        <existenceTime>
+            <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <time>2013/11/14 01:40:49.240</time>
+            </lower>
+            <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <time>2013/11/14 01:40:49.240</time>
+            </upper>
+        </existenceTime>
+        <entityNames>
+            
+        </entityNames>
+        <entityHandlingCodes>
+            <entityHandlingCode>
+                <internalId>0</internalId>
+                <code>
+                    <code></code>
+                    <codeSystem></codeSystem>
+                    <codeDisplayName></codeDisplayName>
+                </code>
+            </entityHandlingCode>
+        </entityHandlingCodes>
+        <entityTelecoms>
+            <entityTelecom>
+                <text></text>
+                <format></format>
+                <validTime>
+                    <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <time>2013/11/14 01:40:49.242</time>
+                    </lower>
+                    <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <time>2013/11/14 01:40:49.242</time>
+                    </upper>
+                </validTime>
+            </entityTelecom>
+        </entityTelecoms>
+        <entityAddresses>
+            <entityAddress>
+                <address></address>
+                <country></country>
+                <jurisdiction></jurisdiction>
+                <postalCode></postalCode>
+                <validTime>
+                    <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <time>2013/11/14 01:40:49.242</time>
+                    </lower>
+                    <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <time>2013/11/14 01:40:49.242</time>
+                    </upper>
+                </validTime>
+            </entityAddress>
+        </entityAddresses>
+        <entityRiskCodes>
+            <entityRiskCode>
+                <internalId>0</internalId>
+            </entityRiskCode>
+        </entityRiskCodes>
+        <entityIds>
+            <entityId>
+                <root></root>
+                <extension></extension>
+                <assigningAuthorityName></assigningAuthorityName>
+            </entityId>
+        </entityIds>
+        <roles>
+            <role>
+                <internalId>0</internalId>
+                <classCode></classCode>
+                <code>
+                    <code></code>
+                    <codeSystem></codeSystem>
+                    <codeDisplayName></codeDisplayName>
+                </code>
+                <negationInd>False</negationInd>
+                <statusCode></statusCode>
+                <effectiveTime>
+                    <low xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <time>2013/11/14 01:40:49.244</time>
+                    </low>
+                    <high xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <time>2013/11/14 01:40:49.244</time>
+                    </high>
+                    <value>0.0</value>
+                    <unit></unit>
+                </effectiveTime>
+                <certificateText></certificateText>
+                <confidentialityCode>
+                    <code></code>
+                    <codeSystem></codeSystem>
+                    <codeDisplayName></codeDisplayName>
+                </confidentialityCode>
+                <quantity>
+                    <value>0.0</value>
+                </quantity>
+                <priorityNumber>-1</priorityNumber>
+                <positionNumber>-1</positionNumber>
+                <roleId>
+                    <roleId>
+                        <root></root>
+                        <extension></extension>
+                        <assigningAuthorityName></assigningAuthorityName>
+                    </roleId>
+                </roleId>
+                <roleNames>
+                    <roleName>
+                        <given></given>
+                        <middle></middle>
+                        <family></family>
+                        <fullName></fullName>
+                        <usefor>False</usefor>
+                        <preferred>False</preferred>
+                        <validTime>
+                            <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </lower>
+                            <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </upper>
+                        </validTime>
+                    </roleName>
+                </roleNames>
+                <roleAddresses>
+                    <roleAddress>
+                        <address></address>
+                        <country></country>
+                        <jurisdiction></jurisdiction>
+                        <postalCode></postalCode>
+                        <validTime>
+                            <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </lower>
+                            <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </upper>
+                        </validTime>
+                    </roleAddress>
+                </roleAddresses>
+                <roleTelecoms>
+                    <roleTelecom>
+                        <text></text>
+                        <format></format>
+                        <validTime>
+                            <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </lower>
+                            <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </upper>
+                        </validTime>
+                    </roleTelecom>
+                </roleTelecoms>
+                <careGivers>
+                    <careGiver>
+                        <text></text>
+                        <format></format>
+                        <validTime>
+                            <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </lower>
+                            <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </upper>
+                        </validTime>
+                    </careGiver>
+                </careGivers>
+                <licensedEntities>
+                    <licensedEntity>
+                        <internalId>0</internalId>
+                        <recertificationTime>
+                            <lower xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </lower>
+                            <upper xsi:type="TS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <time>2013/11/14 01:40:49.245</time>
+                            </upper>
+                        </recertificationTime>
+                    </licensedEntity>
+                </licensedEntities>
+            </role>
+        </roles>
+        <languageCommunications/>
+        <administrativeGenderCode></administrativeGenderCode>
+        <birthTime>
+            <time>2013/11/14 01:40:49.246</time>
+        </birthTime>
+        <deceasedInd>False</deceasedInd>
+        <deceasedTime>
+            <time>2013/11/14 01:40:49.246</time>
+        </deceasedTime>
+        <multipleBirthInd>False</multipleBirthInd>
+        <multipleBirthOrderNumber>-1</multipleBirthOrderNumber>
+        <organDonnorInd>False</organDonnorInd>
+        <birthmarks></birthmarks>
+        <hairColor></hairColor>
+        <eyeColor></eyeColor>
+        <weightQuantity>
+            <value>0.0</value>
+        </weightQuantity>
+        <heightQuantity>
+            <value>0.0</value>
+        </heightQuantity>
+        <maritalStatusCode>
+            <code></code>
+            <codeSystem></codeSystem>
+            <codeDisplayName></codeDisplayName>
+        </maritalStatusCode>
+        <educationLevelCode>
+            <code></code>
+            <codeSystem></codeSystem>
+            <codeDisplayName></codeDisplayName>
+        </educationLevelCode>
+        <livingArrangementCode>
+            <code></code>
+            <codeSystem></codeSystem>
+            <codeDisplayName></codeDisplayName>
+        </livingArrangementCode>
+        <religiousAffiliationCode>
+            <code></code>
+            <codeSystem></codeSystem>
+            <codeDisplayName></codeDisplayName>
+        </religiousAffiliationCode>
+        <raceCode>
+            <code></code>
+            <codeSystem></codeSystem>
+            <codeDisplayName></codeDisplayName>
+        </raceCode>
+    </person>
+</PersonArchetype>
